@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestAppSG</string>
+    <string name="buttonLogin">Войти</string>
+    <string name="registration">Регистрация</string>
+    <string name="button_registrationemail">Зарегистрировать</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="confirm_password">Повторить пароль</string>
+    <string name="successful">Вход выполнен</string>
+    <string name="exit">Выйти</string>
+</resources>
